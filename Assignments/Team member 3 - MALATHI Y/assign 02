@@ -1,0 +1,6 @@
+import random
+import time
+while true:
+  temperature=random.randint(32,212)
+  humidity=random.randint(0,100)
+  print
